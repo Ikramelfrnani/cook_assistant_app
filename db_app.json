@@ -1,0 +1,221 @@
+[{
+    "username": "IkramElf",
+    "email": "elfrnani.ikram@gmail.com",
+    "password": "kimo",
+    "genre": "Femme",
+    "country": "Morocco",
+    "saved_recipes": []
+  },
+  {
+    "username": "Ahmed",
+    "email": "allali.ahmed@gmail.com",
+    "password": "all",
+    "genre": "Homme",
+    "country": "Russia",
+     "saved_recipes": []
+  }]
+[
+    {
+        "name": "Couscous",
+        "cuisine_type": "moroccan",
+        "level": "advanced",
+        "people": 10,
+        "duration": 60,
+        "taste": "savory",
+        "type": "main dish",
+        "image": "couscous.jpg",
+        "rating": "9.0",
+        "ingredients": [
+            "couscous",
+            "water",
+            "olive oil",
+            "salt",
+            "vegetables (carrots, zucchini, etc.)",
+            "chickpeas",
+            "spices (cumin, coriander)"
+        ],
+        "method": "Cook couscous in boiling water, add olive oil, salt, and steamed vegetables."
+    },
+    {
+        "name": "Pasta Carbonara",
+        "cuisine_type": "italian",
+        "level": "intermediate",
+        "people": 4,
+        "duration": 30,
+        "taste": "savory",
+        "type": "main dish",
+        "image": "carbonara.jpg",
+        "rating": "8.5",
+        "ingredients": [
+            "spaghetti",
+            "eggs",
+            "parmesan cheese",
+            "pancetta",
+            "black pepper"
+        ],
+        "method": "Cook spaghetti, mix with beaten eggs, cheese, and crispy pancetta."
+    },
+    {
+        "name": "Sushi",
+        "cuisine_type": "japanese",
+        "level": "intermediate",
+        "people": 2,
+        "duration": 45,
+        "taste": "savory",
+        "type": "main dish",
+        "image": "sushi.jpg",
+        "rating": "7.0",
+        "ingredients": [
+            "sushi rice",
+            "nori sheets",
+            "raw fish (salmon, tuna)",
+            "soy sauce",
+            "wasabi",
+            "pickled ginger"
+        ],
+        "method": "Prepare sushi rice, roll with nori and fillings, slice and serve."
+    },
+    {
+        "name": "Tacos",
+        "cuisine_type": "mexican",
+        "level": "beginner",
+        "people": 5,
+        "duration": 20,
+        "taste": "savory",
+        "type": "main dish",
+        "image": "tacos.jpg",
+        "rating":"8.5",
+        "ingredients": [
+            "taco shells",
+            "ground beef",
+            "lettuce",
+            "tomato",
+            "cheese",
+            "sour cream"
+        ],
+        "method": "Cook beef, fill taco shells with toppings, and serve."
+    },
+    {
+        "name": "Butter Chicken",
+        "cuisine_type": "indian",
+        "level": "beginner",
+        "people": 2,
+        "duration": 90,
+        "taste": "spicy",
+        "type": "main dish",
+        "image": "chiken.jpg",
+        "rating": "9.0",
+        "ingredients": [
+            "chicken",
+            "butter",
+            "cream",
+            "tomato puree",
+            "spices (garam masala, turmeric)",
+            "cilantro"
+        ],
+        "method": "Cook chicken in butter, add spices and cream, simmer until thick."
+    },
+    {
+        "name": "Vegetable Stir-Fry",
+        "cuisine_type": "Chinese",
+        "level": "beginner",
+        "people": 4,
+        "duration": 20,
+        "taste": "savory",
+        "type": "main dish",
+        "image": "vegetable_stir_fry.jpg",
+        "rating": "8.0",
+        "ingredients": [
+            "mixed vegetables (bell peppers, broccoli, carrots)",
+            "soy sauce",
+            "ginger",
+            "garlic",
+            "sesame oil",
+            "rice"
+        ],
+        "method": "Heat sesame oil in a pan, add garlic and ginger, then stir-fry vegetables until tender. Serve over rice."
+    },
+    {
+        "name": "Beef Stroganoff",
+        "cuisine_type": "Russian",
+        "level": "intermediate",
+        "people": 4,
+        "duration": 45,
+        "taste": "savory",
+        "type": "main dish",
+        "image": "beef_stroganoff.jpg",
+        "rating": "9.0",
+        "ingredients": [
+            "beef strips",
+            "mushrooms",
+            "onion",
+            "sour cream",
+            "beef broth",
+            "egg noodles"
+        ],
+        "method": "Sauté beef and onions, add mushrooms, then stir in broth and sour cream. Serve over egg noodles."
+    },
+    {
+        "name": "Caprese Salad",
+        "cuisine_type": "Italian",
+        "level": "beginner",
+        "people": 2,
+        "duration": 10,
+        "taste": "fresh",
+        "type": "salad",
+        "image": "caprese_salad.jpg",
+        "rating": "8.5",
+        "ingredients": [
+            "fresh mozzarella",
+            "tomatoes",
+            "basil",
+            "olive oil",
+            "balsamic vinegar",
+            "salt"
+        ],
+        "method": "Layer mozzarella and tomatoes, sprinkle with basil, drizzle with olive oil and balsamic vinegar, and season with salt."
+    },
+    {
+        "name": "Chocolate Chip Cookies",
+        "cuisine_type": "American",
+        "level": "beginner",
+        "people": 12,
+        "duration": 30,
+        "taste": "sweet",
+        "type": "dessert",
+        "image": "chocolate_chip_cookies.jpg",
+        "rating": "9.5",
+        "ingredients": [
+            "butter",
+            "sugar",
+            "brown sugar",
+            "eggs",
+            "vanilla extract",
+            "flour",
+            "baking soda",
+            "chocolate chips"
+        ],
+        "method": "Cream butter and sugars, add eggs and vanilla, mix in dry ingredients, fold in chocolate chips, and bake."
+    },
+    {
+        "name": "Lentil Soup",
+        "cuisine_type": "Mediterranean",
+        "level": "beginner",
+        "people": 6,
+        "duration": 40,
+        "taste": "savory",
+        "type": "soup",
+        "image": "lentil_soup.jpg",
+        "rating": "8.2",
+        "ingredients": [
+            "lentils",
+            "carrots",
+            "celery",
+            "onion",
+            "garlic",
+            "vegetable broth",
+            "spices (cumin, coriander)"
+        ],
+        "method": "Sauté vegetables, add lentils and broth, season with spices, and simmer until lentils are tender."
+    }
+]
