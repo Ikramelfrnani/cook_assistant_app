@@ -1,4 +1,4 @@
-# Cook Assistance
+# Cook Assistant App
 
 ![Cook Assistance GUI Preview](cook1.png)
 
