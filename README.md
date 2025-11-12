@@ -27,7 +27,7 @@ Cook Assistance is a desktop application built with Python and CustomTkinter tha
 - Modern GUI - Clean, light-themed interface using CustomTkinter
 - Local Database - MongoDB backend for efficient data management
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 - Python 3.8 or higher
