@@ -1,34 +1,57 @@
-# Cook Assitant App
+# Cook Assistance
 
-A desktop application built with **Python**, **Tkinter**, **CustomTkinter**, and **MongoDB**.  
-This project demonstrates how to create an interactive GUI that connects to a local MongoDB database using **PyMongo**.
+![Cook Assistance GUI Preview](cook1.png)
 
----
+A modern Python GUI application that helps users discover, search, and manage recipes with advanced filtering and personal collections.
 
-## 🚀 Features
+##  Description
 
-- Beautiful modern UI built with **CustomTkinter**
-- CRUD operations (Create, Read, Update, Delete) with **MongoDB**
-- Local MongoDB connection using **PyMongo**
-- Error handling and form validation
-- Responsive and beginner-friendly Python code
+Cook Assistance is a desktop application built with Python and CustomTkinter that serves as your personal cooking companion. Users can search through extensive recipe databases, filter by various criteria, save favorite recipes, and manage their personal cooking profile with full authentication system.
 
----
+##  Tech Stack
 
-## 🧰 Tech Stack
+| Technology | Purpose |
+|------------|---------|
+| **Python 3** | Core programming language |
+| **CustomTkinter** | Modern GUI framework with customizable widgets |
+| **MongoDB** | Database for recipes and user data |
+| **PyMongo** | MongoDB driver for Python integration |
+| **Tkinter** | Base GUI toolkit |
 
-| Component | Technology |
-|------------|-------------|
-| GUI | Tkinter + CustomTkinter |
-| Database | MongoDB (local) |
-| Backend | Python |
-| ORM/Driver | PyMongo |
+##  Key Features
 
----
+- Recipes Searching - Search recipes by name
+- Smart Filtering - Filter by difficulty level, taste preferences, and cuisine type
+- Save System - Save and unsave recipes to personal collection
+- User Authentication - Create account, login functionality
+- Modern GUI - Clean, light-themed interface using CustomTkinter
+- Local Database - MongoDB backend for efficient data management
 
-## ⚙️ Setup Instructions
+## ⚙️ Installation & Setup
 
-### 1. Clone the repository
+### Prerequisites
+- Python 3.8 or higher
+- MongoDB installed and running locally
+- pip (Python package manager)
+
+### Installation Steps
+
 ```bash
-git clone https://github.com/yourusername/tkinter-mongodb-app.git
-cd tkinter-mongodb-app
+# Clone the repository
+git clone https://github.com/ikramelfrnani/cook_assistant_app.git
+cd cook_assistant_app
+
+# Install required packages
+pip install customtkinter pymongo pillow
+
+# Run the application
+python src/main.py
+```
+##  Author
+
+**Ikram El Frnani**
+- **GitHub**: [@ikramelfrnani](https://github.com/ikramelfrnani)
+- **LinkedIn**: [Ikram El Frnani](https://linkedin.com/in/ikram-el-frnani-9314a2201)  
+- **Portfolio**: [ikramelfrnani.vercel.app](https://ikramelfrnani.vercel.app/)
+
+
